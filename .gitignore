@@ -1,0 +1,5 @@
+.DS_Store
+/server-java/target/
+/server-java/nb-configuration.xml
+/client-java/target/
+client-java/src/main/java/ifpb/pos/soap
